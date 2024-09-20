@@ -2,6 +2,7 @@
 
 # Base ----------------------------------------
 ultralytics==8.0.3
+albumentations==1.2.1
 hydra-core>=1.2.0
 matplotlib>=3.2.2
 numpy>=1.18.5
